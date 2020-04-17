@@ -12,7 +12,7 @@ TensorFlow2.0教程：[https://github.com/lyhue1991/eat_tensorflow2_in_30_days](
 情感分析: [https://github.com/bojone/bert_in_keras/blob/master/sentiment.py](https://github.com/bojone/bert_in_keras/blob/master/sentiment.py)
 
 
-中文关系抽取: [https://github.com/lvjianxin/Relationship-extraction]
+中文关系抽取: [https://github.com/lvjianxin/Relationship-extraction](https://github.com/lvjianxin/Relationship-extraction)
 
 句子相似度：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils)
 

@@ -14,4 +14,5 @@ TensorFlow2.0教程：[https://github.com/lyhue1991/eat_tensorflow2_in_30_days](
 
 中文关系抽取: [https://github.com/lvjianxin/Relationship-extraction]
 
-句子相似度：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils)
+句子相似度：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils]
+基于BERT的中文命名实体识别：[https://github.com/xuanzebi/BERT-CH-NER#%E6%80%BB%E7%BB%93]

@@ -4,6 +4,8 @@ TensorFlow2.0教程：[https://zhuanlan.zhihu.com/p/59506402](https://zhuanlan.z
 
 TensorFlow2.0教程：[https://github.com/lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 
+Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
+
 当Bert遇上Keras：这可能是Bert最简单的打开姿势：[https://blog.csdn.net/c9Yv2cf9I06K2A9E](https://blog.csdn.net/c9Yv2cf9I06K2A9E)
 
 

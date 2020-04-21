@@ -24,3 +24,5 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 命名实体识别:[https://github.com/huwenxianglyy/ner](https://github.com/huwenxianglyy/ner)
 
 NLP（二十三）序列标注算法评估模块seqeval的使用[https://www.cnblogs.com/jclian91/p/12459688.html](https://www.cnblogs.com/jclian91/p/12459688.html)
+
+命名实体识别[https://github.com/luopeixiang/named_entity_recognition](https://github.com/luopeixiang/named_entity_recognition)

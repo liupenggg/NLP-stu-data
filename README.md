@@ -35,4 +35,8 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 * NLP（二十三）序列标注算法评估模块seqeval的使用[https://www.cnblogs.com/jclian91/p/12459688.html](https://www.cnblogs.com/jclian91/p/12459688.html)
 
+问答系统：
+
+* 问答系统: [https://github.com/AI-confused/COVID19_qa_baseline](https://github.com/AI-confused/COVID19_qa_baseline)
+
 

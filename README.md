@@ -14,16 +14,25 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 * 情感分析: [https://github.com/bojone/bert_in_keras/blob/master/sentiment.py](https://github.com/bojone/bert_in_keras/blob/master/sentiment.py)
 
-句子相似度：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils)
+句子相似度：
 
-基于BERT的中文命名实体识别：[https://github.com/xuanzebi/BERT-CH-NER#%E6%80%BB%E7%BB%93](https://github.com/xuanzebi/BERT-CH-NER#%E6%80%BB%E7%BB%93)
+* 句子相似度：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils)
+* 句子相似度：[https://github.com/AI-confused/Tianchi_Similarity](https://github.com/AI-confused/Tianchi_Similarity)
 
-限定领域的三元组抽取的一次尝试:[https://github.com/percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract)
+命名实体识别：
 
-中文关系抽取: [https://github.com/lvjianxin/Relationship-extraction](https://github.com/lvjianxin/Relationship-extraction)
+* 基于BERT的中文命名实体识别：[https://github.com/xuanzebi/BERT-CH-NER#%E6%80%BB%E7%BB%93](https://github.com/xuanzebi/BERT-CH-NER#%E6%80%BB%E7%BB%93)
 
-命名实体识别:[https://github.com/huwenxianglyy/ner](https://github.com/huwenxianglyy/ner)
+* 命名实体识别[https://github.com/luopeixiang/named_entity_recognition](https://github.com/luopeixiang/named_entity_recognition)
 
-NLP（二十三）序列标注算法评估模块seqeval的使用[https://www.cnblogs.com/jclian91/p/12459688.html](https://www.cnblogs.com/jclian91/p/12459688.html)
+* 命名实体识别:[https://github.com/huwenxianglyy/ner](https://github.com/huwenxianglyy/ner)
 
-命名实体识别[https://github.com/luopeixiang/named_entity_recognition](https://github.com/luopeixiang/named_entity_recognition)
+关系抽取：
+
+* 限定领域的三元组抽取的一次尝试:[https://github.com/percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract)
+
+* 中文关系抽取: [https://github.com/lvjianxin/Relationship-extraction](https://github.com/lvjianxin/Relationship-extraction)
+
+* NLP（二十三）序列标注算法评估模块seqeval的使用[https://www.cnblogs.com/jclian91/p/12459688.html](https://www.cnblogs.com/jclian91/p/12459688.html)
+
+

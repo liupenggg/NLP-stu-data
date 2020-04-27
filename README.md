@@ -36,6 +36,7 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 * NLP（二十三）序列标注算法评估模块seqeval的使用[https://www.cnblogs.com/jclian91/p/12459688.html](https://www.cnblogs.com/jclian91/p/12459688.html)
 
 * 科学空间[https://github.com/bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines)
+* Entity and Relation Extraction Based on TensorFlow and BERT. 基于TensorFlow和BERT的管道式实体及关系抽取，2019语言与智能技术竞赛信息抽取任务解决方案[https://github.com/yuanxiaosc/Entity-Relation-Extraction](https://github.com/yuanxiaosc/Entity-Relation-Extraction)
 
 问答系统：
 

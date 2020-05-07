@@ -23,6 +23,8 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 * 句子相似度：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils)
 * 句子相似度：[https://github.com/AI-confused/Tianchi_Similarity](https://github.com/AI-confused/Tianchi_Similarity)
 * 句子相似度：[https://github.com/xiaolalala/Text-Smilarity](https://github.com/xiaolalala/Text-Smilarity)
+* 中文问题句子相似度计算比赛及方案汇总
+:[https://github.com/ShuaichiLi/Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
 
 命名实体识别：
 

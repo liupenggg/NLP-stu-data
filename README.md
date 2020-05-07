@@ -1,8 +1,8 @@
 # NLP-data
 竞赛名称 | 排名 | 心得  
 -|-|-
-2020 CCIR 2020评测：疫情期间网民情绪识别| 28/2048  | 伪标签，投票 |
-2020 2020语言与智能技术竞赛：关系抽取任务| 101/161  | 命名实体识别，关系分类 |
+CCIR 2020评测：疫情期间网民情绪识别| 28/2048  | 伪标签，投票 |
+2020语言与智能技术竞赛：关系抽取任务| 101/161  | 命名实体识别，关系分类 |
 
 TensorFlow2.0教程：[https://zhuanlan.zhihu.com/p/59506402](https://zhuanlan.zhihu.com/p/59506402)
 
@@ -46,5 +46,6 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 问答系统：
 
 * 问答系统: [https://github.com/AI-confused/COVID19_qa_baseline](https://github.com/AI-confused/COVID19_qa_baseline)
+* [推荐问答系统](https://github.com/lihanghang)
 
 

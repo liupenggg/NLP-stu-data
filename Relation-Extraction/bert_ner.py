@@ -27,14 +27,13 @@ print(tf.__version__)
 
 # https://huggingface.co/bert-base-chinese 去这里下载预训练参数
 # %%
-with open("%s_label2id.json" % "ccks2019", "r", encoding="utf-8") as h:
+with open("%s_label2id.json" % "ccks2020", "r", encoding="utf-8") as h:
     label_id_dict = json.loads(h.read())
 
 id_label_dict = {v:k for k,v in label_id_dict.items()}
 
 BERT_PATH = '../my-bert-base-chinese/'
 MAX_SEQUENCE_LENGTH = 128
-crf_lr_multiplier = 100  # 必要时扩大CRF层的学习率
 
 
 # %%

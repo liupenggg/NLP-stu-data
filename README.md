@@ -17,11 +17,6 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 当Bert遇上Keras：这可能是Bert最简单的打开姿势：[https://blog.csdn.net/c9Yv2cf9I06K2A9E](https://blog.csdn.net/c9Yv2cf9I06K2A9E)
 
-情感分析：
-
-* 情感分析: [https://github.com/brightmart/sentiment_analysis_fine_grain](https://github.com/brightmart/sentiment_analysis_fine_grain)
-
-* 情感分析: [https://github.com/bojone/bert_in_keras/blob/master/sentiment.py](https://github.com/bojone/bert_in_keras/blob/master/sentiment.py)
 
 句子相似度：
 

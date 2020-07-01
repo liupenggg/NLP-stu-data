@@ -4,9 +4,9 @@
 2019 搜狐校园算法大赛|baseline|方面级情感分析|
 2019之江杯————电商评论观点挖掘 亚军方案|baseline|方面级情感分析|
 CCIR 2020评测：疫情期间网民情绪识别| B榜：28/2048  | 集成学习 |
-2020语言与智能技术竞赛：关系抽取任务|baseline| 命名实体识别，关系分类 |
-2020语言与智能技术竞赛：机器阅读理解任务|baseline| 命名实体识别，关系分类 |
-2020语言与智能技术竞赛：事件抽取任务|baseline| 命名实体识别，关系分类 |
+2020语言与智能技术竞赛：关系抽取任务|baseline| 命名实体识别 |
+2020语言与智能技术竞赛：机器阅读理解任务|baseline| 命名实体识别 |
+2020语言与智能技术竞赛：事件抽取任务|baseline| 命名实体识别 |
 2020语言与智能技术竞赛：语义解析任务|baseline| nl2sql |
 
 TensorFlow2.0教程：[https://zhuanlan.zhihu.com/p/59506402](https://zhuanlan.zhihu.com/p/59506402)
@@ -33,22 +33,11 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 命名实体识别：
 
-* 基于BERT的中文命名实体识别：[https://github.com/xuanzebi/BERT-CH-NER#%E6%80%BB%E7%BB%93](https://github.com/xuanzebi/BERT-CH-NER#%E6%80%BB%E7%BB%93)
-
-* 命名实体识别[https://github.com/luopeixiang/named_entity_recognition](https://github.com/luopeixiang/named_entity_recognition)
-
-* 命名实体识别:[https://github.com/huwenxianglyy/ner](https://github.com/huwenxianglyy/ner)
+* 基于BERT的中文命名实体识别：[https://github.com/dengxc1220/bert4keras_ner_demo](https://github.com/dengxc1220/bert4keras_ner_demo)
 
 关系抽取：
 
-* 限定领域的三元组抽取的一次尝试:[https://github.com/percent4/ccks_triple_extract](https://github.com/percent4/ccks_triple_extract)
-
-* 中文关系抽取: [https://github.com/lvjianxin/Relationship-extraction](https://github.com/lvjianxin/Relationship-extraction)
-
-* NLP（二十三）序列标注算法评估模块seqeval的使用[https://www.cnblogs.com/jclian91/p/12459688.html](https://www.cnblogs.com/jclian91/p/12459688.html)
-
 * 科学空间[https://github.com/bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines)
-* Entity and Relation Extraction Based on TensorFlow and BERT. 基于TensorFlow和BERT的管道式实体及关系抽取，2019语言与智能技术竞赛信息抽取任务解决方案[https://github.com/yuanxiaosc/Entity-Relation-Extraction](https://github.com/yuanxiaosc/Entity-Relation-Extraction)
 
 问答系统：
 

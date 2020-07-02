@@ -27,8 +27,8 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 :[https://github.com/ShuaichiLi/Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
 
 命名实体识别：
-
-* 基于BERT的中文命名实体识别：[https://github.com/dengxc1220/bert4keras_ner_demo](https://github.com/dengxc1220/bert4keras_ner_demo)
+* NER_DEMO：[https://github.com/CLOVEXCWZ/NER_DEMO](https://github.com/CLOVEXCWZ/NER_DEMO)
+* bert4keras_ner_demo：[https://github.com/dengxc1220/bert4keras_ner_demo](https://github.com/dengxc1220/bert4keras_ner_demo)
 
 关系抽取：
 

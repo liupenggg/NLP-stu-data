@@ -17,7 +17,6 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 当Bert遇上Keras：这可能是Bert最简单的打开姿势：[https://blog.csdn.net/c9Yv2cf9I06K2A9E](https://blog.csdn.net/c9Yv2cf9I06K2A9E)
 
-
 句子相似度：
 
 * 句子相似度：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils)
@@ -25,6 +24,10 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 * 句子相似度：[https://github.com/xiaolalala/Text-Smilarity](https://github.com/xiaolalala/Text-Smilarity)
 * 中文问题句子相似度计算比赛及方案汇总
 :[https://github.com/ShuaichiLi/Chinese-sentence-similarity-task](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
+
+文本分类：
+
+* 文本分类：[https://github.com/terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils)
 
 命名实体识别：
 * NER_DEMO：[https://github.com/CLOVEXCWZ/NER_DEMO](https://github.com/CLOVEXCWZ/NER_DEMO)
@@ -36,7 +39,7 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 问答系统：
 
-* 问答系统: [https://github.com/AI-confused/COVID19_qa_baseline](https://github.com/AI-confused/COVID19_qa_baseline)
-* [推荐问答系统](https://github.com/lihanghang)
+* 疫情政务问答助手: [https://github.com/AI-confused/COVID19_qa_baseline](https://github.com/AI-confused/COVID19_qa_baseline)
+* 自然语言处理、知识图谱、对话系统三大技术研究与应用：[https://github.com/lihanghang/NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph)
 
 

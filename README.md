@@ -17,7 +17,7 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 句子相似度：
 
-* 句子相似度：[https://github.com/liupenggg/NLP-stu-data/tree/master/sentence-similarity)
+* 句子相似度：[https://github.com/liupenggg/NLP-stu-data/tree/master/sentence-similarity)(https://github.com/liupenggg/NLP-stu-data/tree/master/sentence-similarity)
 
 命名实体识别：
 * NER_DEMO：[https://github.com/CLOVEXCWZ/NER_DEMO](https://github.com/CLOVEXCWZ/NER_DEMO)
@@ -25,7 +25,7 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 关系抽取：
 
-* 科学空间[https://github.com/bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines)
+* 科学空间：[https://github.com/bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines)
 
 问答系统：
 

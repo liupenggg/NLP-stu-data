@@ -1,3 +1,6 @@
+开源各大比赛baseline地址：[https://github.com/LogicJake/competition_baselines](https://github.com/LogicJake/competition_baselines)
+
+
 # NLP-data
 竞赛名称 | 排名 | 心得  
 -|-|-

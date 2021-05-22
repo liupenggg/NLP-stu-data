@@ -13,14 +13,9 @@ CCIR 2020评测：疫情期间网民情绪识别| B榜：28/2048  | 集成学习
 2020语言与智能技术竞赛：语义解析任务|baseline| nl2sql |
 2020语言与智能技术竞赛：面向推荐的对话任务|baseline| 集成对话系统和推荐系统的人机交互系统 |
 
-TensorFlow2.0教程：[https://zhuanlan.zhihu.com/p/59506402](https://zhuanlan.zhihu.com/p/59506402)
-
-TensorFlow2.0教程：[https://github.com/lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
-
-Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
-
 
 命名实体识别：
+
 * NER_DEMO：[https://github.com/CLOVEXCWZ/NER_DEMO](https://github.com/CLOVEXCWZ/NER_DEMO)
 * bert4keras_ner_demo：[https://github.com/dengxc1220/bert4keras_ner_demo](https://github.com/dengxc1220/bert4keras_ner_demo)
 
@@ -36,6 +31,12 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 * 疫情政务问答助手: [https://github.com/AI-confused/COVID19_qa_baseline](https://github.com/AI-confused/COVID19_qa_baseline)
 * 自然语言处理、知识图谱、对话系统三大技术研究与应用：[https://github.com/lihanghang/NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph)
+
+TensorFlow2.0：
+
+* TensorFlow2.0教程：[https://zhuanlan.zhihu.com/p/59506402](https://zhuanlan.zhihu.com/p/59506402)
+
+* TensorFlow2.0教程：[https://github.com/lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 
 
 

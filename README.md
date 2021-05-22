@@ -19,9 +19,6 @@ TensorFlow2.0教程：[https://github.com/lyhue1991/eat_tensorflow2_in_30_days](
 
 Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 
-句子相似度：
-
-* 句子相似度：[https://github.com/liupenggg/NLP-stu-data/tree/master/sentence-similarity](https://github.com/liupenggg/NLP-stu-data/tree/master/sentence-similarity)
 
 命名实体识别：
 * NER_DEMO：[https://github.com/CLOVEXCWZ/NER_DEMO](https://github.com/CLOVEXCWZ/NER_DEMO)
@@ -29,7 +26,11 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 关系抽取：
 
-* 科学空间：[https://github.com/bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines)
+* [https://github.com/bojone/lic2020_baselines](https://github.com/bojone/lic2020_baselines)
+
+科学空间：
+
+* bert4keras案例：[https://github.com/bojone/bert4keras/tree/master/examples](https://github.com/bojone/bert4keras/tree/master/examples)
 
 问答系统：
 
@@ -47,12 +48,11 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 * 科学空间：[https://kexue.fm](https://kexue.fm)
 
-* bert4keras案例：[https://github.com/bojone/bert4keras/tree/master/examples](https://github.com/bojone/bert4keras/tree/master/examples)
-	
 
 - 相关案例
     * [2019 搜狐校园算法大赛赛题解释及baseline分享](https://blog.csdn.net/weixin_42247922/article/details/104883897)
-	* [2020讯飞开发者大赛——婴儿啼哭声识别挑战赛Baseline](https://blog.csdn.net/weixin_42247922/article/details/104884012)
+
+    * [2020讯飞开发者大赛——婴儿啼哭声识别挑战赛Baseline](https://blog.csdn.net/weixin_42247922/article/details/104884012)
 
 
 

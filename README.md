@@ -50,7 +50,6 @@ Bert家族下载地址：[https://github.com/ymcui/Chinese-BERT-wwm](https://git
 
 
 - 相关案例
-    * [2019 搜狐校园算法大赛赛题解释及baseline分享](https://blog.csdn.net/weixin_42247922/article/details/104883897)
 
     * [2020讯飞开发者大赛——婴儿啼哭声识别挑战赛Baseline](https://blog.csdn.net/weixin_42247922/article/details/104884012)
 

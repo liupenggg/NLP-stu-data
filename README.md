@@ -29,6 +29,7 @@ CCIR 2020评测：疫情期间网民情绪识别| B榜：28/2048  | 集成学习
 
 问答系统：
 
+* ccks2019-ckbqa-4th-codes：[https://github.com/duterscmy/ccks2019-ckbqa-4th-codes](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes)
 * 疫情政务问答助手: [https://github.com/AI-confused/COVID19_qa_baseline](https://github.com/AI-confused/COVID19_qa_baseline)
 * 自然语言处理、知识图谱、对话系统三大技术研究与应用：[https://github.com/lihanghang/NLP-Knowledge-Graph](https://github.com/lihanghang/NLP-Knowledge-Graph)
 
